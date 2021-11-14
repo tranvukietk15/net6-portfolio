@@ -25,6 +25,10 @@ https://dotnet.microsoft.com/download/dotnet/6.0
 
 This is just the version used by the template, if you need to use a newer or older one, you can do it manually after.
 
+### Example:
+
+https://tranvukietk15.github.io/resume/
+
 ### Structure of the template
 ```
 C:.

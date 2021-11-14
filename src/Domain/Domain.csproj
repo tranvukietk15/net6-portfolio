@@ -4,4 +4,10 @@
     <TargetFramework>net6.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="IRepositories\" />
+    <Folder Include="Exeptions\" />
+    <Folder Include="DomainServices\" />
+  </ItemGroup>
+
 </Project>
